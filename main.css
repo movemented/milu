@@ -42,6 +42,9 @@ body {
   min-height: 100vh;
   min-width: 100vw;
 }
+.bg-video {
+  z-index: -1;
+}
 body {
   font-family:monospace!important;
   background-color:#000!important;
